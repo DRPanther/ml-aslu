@@ -1,4 +1,4 @@
-Automatic Security Level Updater v0.2a by MeaTLoTioN
+Automatic Security Level Updater v0.3a by MeaTLoTioN
 
 
 INSTALLATION:
