@@ -24,7 +24,7 @@ Var
 
 Begin
 
-  version := '0.2a[ml]';  // sec_check version
+  version := '0.3a[ml]';  // sec_check version
   lvl2 := 20;             // first new level to promote to
   lvl3 := 30;             // second new level to promote to
   step := 10;             // step to increment upon promote
